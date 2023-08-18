@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="[https://media.giphy.com/media/lbcLMX9B6sTsGjUmS3](https://mograph.video/Plexus4K)"/>
     <h1 align="center">Hi 👋, I'm Alejandro López Castrejón</h1>
     <h3 align="center">A passionate Front End developer and Software Engineering student from México.</h3>
 </div>
@@ -31,5 +30,4 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=acst352&show_icons=true&theme=transparent)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acst352&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
