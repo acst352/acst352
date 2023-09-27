@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **acst352@gmail.com**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **Amazon Web Services**
 
 <div align="left">
     <h3>🔨 Experience with:</h3>
