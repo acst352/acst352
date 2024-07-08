@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 AWS Certified | React | TypeScript | Software Engineering graduate about to earn my degree in Software Engineering
+- 📝 AWS Certified | React | TypeScript | Software Engineering graduate
 
 - 📫 How to reach me **acst352@gmail.com**
 
