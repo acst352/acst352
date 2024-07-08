@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I study Software Engineering at the University of Colima.
+- 📝 AWS Certified | React | TypeScript | Software Engineering graduate about to earn my degree in Software Engineering
 
 - 📫 How to reach me **acst352@gmail.com**
 
