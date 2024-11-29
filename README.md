@@ -1,17 +1,17 @@
 <div id="header" align="center">
     <img src="https://github.com/acst352/acst352/blob/main/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Alejandro López Castrejón</h1>
-    <h3 align="center">A passionate Software developer and Software Engineering graduate.</h3>
+    <h3 align="center">A passionate Software developer and Software Engineer.</h3>
 </div>
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 AWS Certified | React | TypeScript | Software Engineering graduate
+- 📝 AWS Certified | React | TypeScript | Next | Software Engineer
 
 - 📫 How to reach me **acst352@gmail.com**
 
-- 🌱 I’m currently learning **React.js** and **Amazon Web Services**
+- 🌱 I’m currently learning **IA** and **Amazon Web Services**
 
 <div align="left">
     <h3>🔨 Experience with:</h3>
