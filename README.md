@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 AWS Certified | React | TypeScript | Next | Software Engineer
+- 📝 AWS Certified | React | TypeScript | Next | PostgreSQL | NodeJS | Software Engineer
 
 - 📫 How to reach me **acst352@gmail.com**
 
