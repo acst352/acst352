@@ -13,21 +13,6 @@
 
 - 🌱 I’m currently learning ASP.NET
 
-<div align="left">
-    <h3>🔨 Experience with:</h3>
-    <div>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/?size=48&id=54087&format=png"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-    <img src="https://img.icons8.com/?size=48&id=74402&format=png"/>
-    </div>
-</div>
-
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=acst352&show_icons=true&theme=transparent)
