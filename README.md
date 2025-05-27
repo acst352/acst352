@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://github.com/acst352/acst352/blob/main/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm Alejandro López Castrejón</h1>
+    <h1 align="center">Hi 👋, I'm Alejandro</h1>
     <h3 align="center">A passionate Software Engineer</h3>
 </div>
 ---
