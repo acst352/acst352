@@ -7,4 +7,4 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 Software Engineer | AWS Certified | React | TypeScript | Next | ASP.NET
+- 📝 Software Engineer | AWS Certified | React | TypeScript | Next | .NET
